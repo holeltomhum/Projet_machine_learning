@@ -1,5 +1,1 @@
-*.gz
-*/.ipynb_checkpoints/*
-.ipynb_checkpoints/
-.Rhistory
-.RData
+.ipynb_checkpoints\*
